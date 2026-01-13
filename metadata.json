@@ -1,0 +1,7 @@
+{
+  "name": "EasyTools - Ultimate US Utility Hub",
+  "description": "A comprehensive suite of production-ready tools including Finance, Health, Utility, YouTube Analysis, and AI-powered generation features. Optimized for high performance and premium user experience.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
